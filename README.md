@@ -1,4 +1,4 @@
-# MERN eCommerce Marketplace
+# MERN eCommerce Marketplace with Shopping Cart
 
 An online marketplace web application with:
 ~ User sign in and signout admin options
