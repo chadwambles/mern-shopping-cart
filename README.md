@@ -5,6 +5,9 @@ An online marketplace web application with:
 ~ Edit features for user, shops, and products
 ~ Product categorizations
 ~ Product catelog search bar by name and category
+~ Shopping cart feature 
+~ Order feature with payment processing using Stripe. 
+~ Itemized order receipt
 
 Programming Stack Used:
 DB: MongoDB, Mongoose(database design)
@@ -25,7 +28,3 @@ Frontend: React, Material-Ui-React(css styling)
    - To install dependencies, run ```  npm install  ``` or ``` yarn ```
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 5. Open [localhost:3000](http://localhost:3000/) in the browser
----- "# mern-ecommerce" 
-"# mern-ecommerce" 
-"# mern-ecommerce" 
-"# mern-shopping-cart" 
